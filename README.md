@@ -73,4 +73,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Chaitanya Rane - ranechaitanya19@gmail.com
 
-Project Link: [https://github.com/19Chaitanya05/time-tracker-application](https://github.com/19Chaitanya05/time-tracker-application)
+Project Link: [https://github.com/19Chaitanya05/TimeTrackerApplication](https://github.com/19Chaitanya05/TimeTrackerApplication)
