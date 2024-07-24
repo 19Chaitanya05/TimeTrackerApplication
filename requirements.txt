@@ -1,0 +1,5 @@
+tk
+pandas
+pygetwindow
+openpyxl
+pynput
